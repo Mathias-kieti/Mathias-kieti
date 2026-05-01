@@ -17,13 +17,13 @@ I enjoy building real-world applications that solve practical problems, especial
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Java, Python, JavaScript, C, R  
+- Java, Python, JavaScript,Typecript, C , R
 - HTML, CSS  
 
 ### ⚙️ Frameworks & Libraries
 - React, Angular, Node.js, Express  
 - Spring Boot , Flask, Django 
-- Pandas, NumPy, Scikit-learn, Matplotlib  
+- Pandas, NumPy, Scikit-learn, Matplotlib, Tensorflow 
 
 ### 🗄️ Databases
 - MySQL, PostgreSQL, MongoDB  
@@ -31,7 +31,8 @@ I enjoy building real-world applications that solve practical problems, especial
 
 ### 🧰 Tools & Technologies
 - Git & GitHub  
-- Docker  
+- Docker
+- Postman
 - VS Code, IntelliJ IDEA  
 - Jupyter Notebook, Anaconda  
 
