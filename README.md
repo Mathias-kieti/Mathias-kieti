@@ -105,7 +105,7 @@ mathias = {
 | 💰 **Financial Tracker** | Web app for tracking expenses, budgets, savings & bills | `React` `Node.js` `Express` `MongoDB` | [Code](https://github.com/Mathias-kieti/personal_financial_tracker) · [Live](https://personal-financial-tracker-ten.vercel.app) |
 | 🏦 **Banking System** | Secure simulation of real-world banking — accounts, transactions, auth | `React` `Spring Boot` `MySQL` | [Code](https://github.com/Mathias-kieti/BANKING-SERVICE) · [Live](https://mybankingservices.netlify.app/) |
 | 🤖 **AI Study Buddy** | AI academic assistant that summarizes notes & generates study content | `React` `Node.js` `Hugging Face` `MongoDB` | [Code](https://github.com/Mathias-kieti/HACKATHON-CHALLENGE---study-buddy---) |
-| 🌐 **Portfolio** | Personal portfolio showcasing my work & skills | `React` `Tailwind CSS` | [Code](https://github.com/Mathias-kieti/PLP_MY-UPDATED-PORTFOLIO) |
+| 🌐 **Portfolio** | Personal portfolio showcasing my work & skills | `React` `Tailwind CSS` | [Code](updated-portfolio-93by5x66t-mathias-kietis-projects.vercel.app) |
 
 ---
 
