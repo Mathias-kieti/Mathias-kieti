@@ -1,35 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1A,50:7B2FFF,100:C8FF00&height=180&section=header&text=MATHIAS%20KIETI&fontSize=52&fontColor=F0EEE8&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20DATA%20%7C%20TECH%20BUILDER&descAlignY=62&descSize=16" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono\&weight=700\&size=20\&pause=900\&color=7B2FFF\&center=true\&vCenter=true\&width=800\&lines=Computer+Science+Major;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+%26+Systems+Builder;Building+solutions+that+matter.)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Mathias-kieti&style=flat-square&color=7B2FFF&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM ONLINE`
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   M A T H I A S   K I E T I                                │
-│                                                             │
-│   Software  →  Data  →  Intelligence  →  Impact            │
-│                                                             │
-│   Nairobi, Kenya                                           │
-│   BSc Computer Science — DeKUT                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+███╗   ███╗ █████╗ ████████╗██╗  ██╗██╗ █████╗ ███████╗
+████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝
+██╔████╔██║███████║   ██║   ███████║██║███████║███████╗
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██║██╔══██║╚════██║
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██║  ██║███████║
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+                                                  K I E T I
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono\&size=18\&pause=1000\&color=7B2FFF\&center=true\&vCenter=true\&width=700\&lines=Computer+Science+Major;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+%26+Systems+Builder;Building+solutions+that+matter.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mathias-kieti&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -43,16 +28,13 @@ mathias = {
     "location": "Nairobi, Kenya",
     "university": "Dedan Kimathi University of Technology",
     "degree": "BSc Computer Science",
-
     "interests": [
-        "AI & Machine Learning",
+        "AI & ML",
         "Full-Stack Development",
         "Data Engineering",
         "Cybersecurity"
     ],
-
     "available": True,
-
     "motto": "Building solutions that combine software, data, and intelligence."
 }
 ```
@@ -61,51 +43,14 @@ mathias = {
 
 ## `> roles --current`
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### MUNAHealth
-
-**CPO**
-
-Product Strategy
-Healthcare Technology
-Digital Health Innovation
-
-</td>
-
-<td width="33%" align="center">
-
-### StarVoniq
-
-**COO**
-
-Operations
-Product Delivery
-Technology & Innovation
-
-</td>
-
-<td width="33%" align="center">
-
-### PickMe
-
-**CTO**
-
-Technology Strategy
-Product Development
-Software Engineering
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-```text
-PRODUCT  ×  OPERATIONS  ×  ENGINEERING
-```
+|         MUNAHealth        |        StarVoniq        |        PickMe        |
+| :-----------------------: | :---------------------: | :------------------: |
+|          **CPO**          |         **COO**         |        **CTO**       |
+|      Product Strategy     |        Operations       |  Technology Strategy |
+|   Healthcare Technology   |     Product Delivery    |  Product Development |
+| Digital Health Innovation | Technology & Innovation | Software Engineering |
 
 </div>
 
@@ -162,7 +107,7 @@ PRODUCT  ×  OPERATIONS  ×  ENGINEERING
 </details>
 
 <details>
-<summary><b>TOOLS & INFRASTRUCTURE</b></summary>
+<summary><b>TOOLS</b></summary>
 
 <br>
 
@@ -178,52 +123,15 @@ PRODUCT  ×  OPERATIONS  ×  ENGINEERING
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2FFF&height=2&section=header" width="80%"/>
-
-</div>
-
 ## `> ls projects/`
 
-<table>
-<tr>
-<th>PROJECT</th>
-<th>DESCRIPTION</th>
-<th>STACK</th>
-</tr>
-
-<tr>
-<td><b>AgriAI</b></td>
-<td>ML system predicting crop prices and optimal planting time using weather and market data.</td>
-<td><code>React</code> <code>Django</code> <code>PostgreSQL</code> <code>XGBoost</code></td>
-</tr>
-
-<tr>
-<td><b>Financial Tracker</b></td>
-<td>Web application for expenses, budgets, savings and bill tracking.</td>
-<td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
-</tr>
-
-<tr>
-<td><b>Banking System</b></td>
-<td>Secure banking system simulation covering accounts, transactions and authentication.</td>
-<td><code>React</code> <code>Spring Boot</code> <code>MySQL</code></td>
-</tr>
-
-<tr>
-<td><b>AI Study Buddy</b></td>
-<td>AI academic assistant for summarizing notes and generating study content.</td>
-<td><code>React</code> <code>Node.js</code> <code>Hugging Face</code> <code>MongoDB</code></td>
-</tr>
-
-<tr>
-<td><b>Portfolio</b></td>
-<td>Personal developer portfolio showcasing projects, capabilities and technical work.</td>
-<td><code>React</code> <code>Tailwind CSS</code></td>
-</tr>
-
-</table>
+| Project               | Description                                                                          | Stack                                      | Links                                                                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **AgriAI**            | ML system predicting crop prices & optimal planting time using weather & market data | `React` `Django` `PostgreSQL` `XGBoost`    | [Code](https://github.com/Mathias-kieti/AgriAI-PROJECT)                                                                         |
+| **Financial Tracker** | Web app for tracking expenses, budgets, savings & bills                              | `React` `Node.js` `Express` `MongoDB`      | [Code](https://github.com/Mathias-kieti/personal_financial_tracker) · [Live](https://personal-financial-tracker-ten.vercel.app) |
+| **Banking System**    | Secure simulation of real-world banking — accounts, transactions, auth               | `React` `Spring Boot` `MySQL`              | [Code](https://github.com/Mathias-kieti/BANKING-SERVICE) · [Live](https://mybankingservices.netlify.app/)                       |
+| **AI Study Buddy**    | AI academic assistant that summarizes notes & generates study content                | `React` `Node.js` `Hugging Face` `MongoDB` | [Code](https://github.com/Mathias-kieti/HACKATHON-CHALLENGE---study-buddy---)                                                   |
+| **Portfolio**         | Personal portfolio showcasing my work & skills                                       | `React` `Tailwind CSS`                     | [Live](https://updated-portfolio-93by5x66t-mathias-kietis-projects.vercel.app)                                                  |
 
 ---
 
@@ -231,17 +139,15 @@ PRODUCT  ×  OPERATIONS  ×  ENGINEERING
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mathias-kieti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A1A&title_color=7B2FFF&icon_color=C8FF00&text_color=F0EEE8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias-kieti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A1A&title_color=7B2FFF&icon_color=C8FF00&text_color=F0EEE8"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-kieti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=7B2FFF&text_color=F0EEE8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-kieti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=7B2FFF&text_color=F0EEE8"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mathias-kieti&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7B2FFF&fire=C8FF00&currStreakLabel=C8FF00" />
+<img src="https://streak-stats.demolab.com?user=Mathias-kieti&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7B2FFF&fire=C8FF00&currStreakLabel=C8FF00"/>
 
 </div>
 
@@ -280,35 +186,22 @@ Member  — Phoenix Analytics Club
 
 <div align="center">
 
-<a href="mailto:mathiasnzioka0@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/EMAIL-7B2FFF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mathiasnzioka0@gmail.com)
 
-<a href="https://linkedin.com/in/mathias-nzioka-341567305">
-<img src="https://img.shields.io/badge/LINKEDIN-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FFF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mathias-nzioka-341567305)
 
-<a href="https://github.com/Mathias-kieti">
-<img src="https://img.shields.io/badge/GITHUB-7B2FFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-7B2FFF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mathias-kieti)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│     BUILD.  LEARN.  SHIP.  REPEAT.                          │
-│                                                              │
-│     "Building solutions that combine software,              │
-│      data, and intelligence."                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+BUILD.  LEARN.  SHIP.  REPEAT.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8FF00,50:7B2FFF,100:0A0A1A&height=120&section=footer&animation=fadeIn"/>
+"Building solutions that combine software, data, and intelligence."
+```
 
 </div>
